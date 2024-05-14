@@ -43,6 +43,9 @@
 
 /** \brief This macro will enable mathematical constants like M_PI. */
 #define _USE_MATH_DEFINES 
+#ifdef __MINGW32__
+	#define _POSIX_THREAD_SAFE_FUNCTIONS
+#endif
 
 #include <cstdlib>
 #include <cstring>

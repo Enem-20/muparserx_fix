@@ -1,0 +1,143 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 58,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 72,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 90,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 97,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libmuparserx.a"
+			],
+			"targetId" : "muparserx::@6890427a1f51a3e7e1df",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/muparserx.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "cmake",
+			"paths" : 
+			[
+				"cmake/muparserxConfig.cmake",
+				"build/muparserxConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/muparserx",
+			"paths" : 
+			[
+				"parser/mpDefines.h",
+				"parser/mpError.h",
+				"parser/mpFuncCmplx.h",
+				"parser/mpFuncCommon.h",
+				"parser/mpFuncMatrix.h",
+				"parser/mpFuncNonCmplx.h",
+				"parser/mpFuncStr.h",
+				"parser/mpFwdDecl.h",
+				"parser/mpICallback.h",
+				"parser/mpIOprt.h",
+				"parser/mpIOprtBinShortcut.h",
+				"parser/mpIPackage.h",
+				"parser/mpIPrecedence.h",
+				"parser/mpIToken.h",
+				"parser/mpIValReader.h",
+				"parser/mpIValue.h",
+				"parser/mpIfThenElse.h",
+				"parser/mpMatrix.h",
+				"parser/mpMatrixError.h",
+				"parser/mpOprtBinAssign.h",
+				"parser/mpOprtBinCommon.h",
+				"parser/mpOprtBinShortcut.h",
+				"parser/mpOprtCmplx.h",
+				"parser/mpOprtIndex.h",
+				"parser/mpOprtMatrix.h",
+				"parser/mpOprtNonCmplx.h",
+				"parser/mpOprtPostfixCommon.h",
+				"parser/mpPackageCmplx.h",
+				"parser/mpPackageCommon.h",
+				"parser/mpPackageMatrix.h",
+				"parser/mpPackageNonCmplx.h",
+				"parser/mpPackageStr.h",
+				"parser/mpPackageUnit.h",
+				"parser/mpParser.h",
+				"parser/mpParserBase.h",
+				"parser/mpParserMessageProvider.h",
+				"parser/mpRPN.h",
+				"parser/mpScriptTokens.h",
+				"parser/mpStack.h",
+				"parser/mpStringConversionHelper.h",
+				"parser/mpTest.h",
+				"parser/mpTokenReader.h",
+				"parser/mpTypes.h",
+				"parser/mpValReader.h",
+				"parser/mpValue.h",
+				"parser/mpValueCache.h",
+				"parser/mpVariable.h",
+				"parser/suSortPred.h",
+				"parser/suStringTokens.h",
+				"parser/utGeneric.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

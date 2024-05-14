@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\example.dir/objects.a
+C:\Users\szamaro\AppData\Local\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\example.dir/objects.a @CMakeFiles\example.dir\objects1.rsp
+C:\Users\szamaro\AppData\Local\Qt\Tools\mingw1120_64\bin\g++.exe  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -Wl,--whole-archive CMakeFiles\example.dir/objects.a -Wl,--no-whole-archive -o example.exe -Wl,--out-implib,libexample.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\example.dir\linkLibs.rsp

@@ -1,0 +1,248 @@
+[
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpError.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpError.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpError.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpError.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpFuncCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpFuncCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpFuncCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpFuncCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpFuncCommon.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpFuncCommon.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpFuncCommon.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpFuncCommon.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpFuncMatrix.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpFuncMatrix.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpFuncMatrix.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpFuncMatrix.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpFuncNonCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpFuncNonCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpFuncNonCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpFuncNonCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpFuncStr.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpFuncStr.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpFuncStr.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpFuncStr.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpICallback.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpICallback.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpICallback.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpICallback.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIOprt.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIOprt.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIOprt.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIOprt.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIOprtBinShortcut.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIOprtBinShortcut.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIOprtBinShortcut.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIOprtBinShortcut.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIPackage.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIPackage.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIPackage.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIPackage.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIToken.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIToken.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIToken.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIToken.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIValReader.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIValReader.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIValReader.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIValReader.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIValue.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIValue.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIValue.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIValue.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpIfThenElse.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpIfThenElse.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpIfThenElse.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpIfThenElse.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtBinAssign.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtBinAssign.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtBinAssign.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtBinAssign.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtBinCommon.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtBinCommon.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtBinCommon.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtBinCommon.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtBinShortcut.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtBinShortcut.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtBinShortcut.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtBinShortcut.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtIndex.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtIndex.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtIndex.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtIndex.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtMatrix.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtMatrix.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtMatrix.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtMatrix.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtNonCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtNonCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtNonCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtNonCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpOprtPostfixCommon.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpOprtPostfixCommon.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpOprtPostfixCommon.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpOprtPostfixCommon.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageCommon.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageCommon.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageCommon.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageCommon.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageMatrix.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageMatrix.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageMatrix.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageMatrix.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageNonCmplx.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageNonCmplx.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageNonCmplx.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageNonCmplx.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageStr.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageStr.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageStr.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageStr.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpPackageUnit.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpPackageUnit.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpPackageUnit.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpPackageUnit.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpParser.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpParser.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpParser.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpParser.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpParserBase.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpParserBase.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpParserBase.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpParserBase.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpParserMessageProvider.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpParserMessageProvider.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpParserMessageProvider.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpParserMessageProvider.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpRPN.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpRPN.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpRPN.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpRPN.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpScriptTokens.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpScriptTokens.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpScriptTokens.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpScriptTokens.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpTest.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpTest.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpTest.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpTest.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpTokenReader.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpTokenReader.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpTokenReader.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpTokenReader.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpValReader.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpValReader.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpValReader.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpValReader.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpValue.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpValue.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpValue.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpValue.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpValueCache.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpValueCache.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpValueCache.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpValueCache.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/muparserx.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\muparserx.dir\\parser\\mpVariable.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\parser\\mpVariable.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/parser/mpVariable.cpp",
+  "output": "CMakeFiles/muparserx.dir/parser/mpVariable.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/example.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\example.dir\\sample\\example.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\sample\\example.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/sample/example.cpp",
+  "output": "CMakeFiles/example.dir/sample/example.cpp.obj"
+},
+{
+  "directory": "D:/SZamaro/Projects/muparserx_fix/build",
+  "command": "C:\\Users\\szamaro\\AppData\\Local\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe  @CMakeFiles/example.dir/includes_CXX.rsp  -pedantic -Wall -Wextra -std=c++17 -D_DEBUG -g3 -gdwarf-3 -o CMakeFiles\\example.dir\\sample\\timer.cpp.obj -c D:\\SZamaro\\Projects\\muparserx_fix\\sample\\timer.cpp",
+  "file": "D:/SZamaro/Projects/muparserx_fix/sample/timer.cpp",
+  "output": "CMakeFiles/example.dir/sample/timer.cpp.obj"
+}
+]
